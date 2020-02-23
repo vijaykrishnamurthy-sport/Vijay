@@ -31,5 +31,4 @@ The Spaniard's overall tally of claycourt titles stands at 55 (*out of a total o
 
 Every year, an exciting set of Next-Gen players join the ATP tour. Alexander Zverev, Dominic Thiem, Stefanos Tsitsipas, Karen Khachanov, Borna Coric, Daniil Medvedev, Denis Shapovalov, Frances Tiafoe - the list goes on. Will the sport witness one of these young guns repeating a similar act like the emergence of Nadal during the 2005 season?
 
-> This post was originally published on Sportskeeda
-[Read it on Sportskeeda.](https://www.sportskeeda.com/tennis/roll-out-the-tennis-red-carpet-clay-season-rafael-nadal)
+> [This post was originally published on Sportskeeda](https://www.sportskeeda.com/tennis/roll-out-the-tennis-red-carpet-clay-season-rafael-nadal)
