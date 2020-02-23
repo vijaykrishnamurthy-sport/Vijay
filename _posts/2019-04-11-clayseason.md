@@ -1,5 +1,6 @@
 ---
 title: "It is time to roll out the tennis red carpet (clay) season"
+excerpt_separator: "<!--more-->"
 categories:
   - Articles
 tags:
