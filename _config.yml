@@ -62,7 +62,9 @@ author:
   avatar : "/assets/images/vijay.jpeg"
   bio    : "Ph.D. Sports Research Scholar"
   links:
-  
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:vijay@groundstrokes.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vjgroundstrokes"
@@ -73,6 +75,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:vijay@groundstrokes.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vjgroundstrokes"
