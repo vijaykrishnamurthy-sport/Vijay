@@ -1,5 +1,5 @@
 ---
-permalink: /Bio/
+permalink: /bio/
 title: "Who am I?"
 ---
 
