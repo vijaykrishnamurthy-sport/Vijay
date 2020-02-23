@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Writing"
+    url: /posts/
+  - title: "Research"
+    url: /research/
+  - title: "Coaching"
+    url: /coaching/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Gallery"
+    url: /tags/
