@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /research/
 title: "Who am I?"
 ---
 
