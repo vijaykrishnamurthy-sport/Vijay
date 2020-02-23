@@ -8,9 +8,9 @@ tags:
 link: https://www.sportskeeda.com/tennis/roll-out-the-tennis-red-carpet-clay-season-rafael-nadal
 ---
 
-12 tournaments over nine weeks across picturesque Europe - that's how the claycourt season goes every year on the ATP tour during the months of April and May. The momentum builds through a series of smaller tournaments (called ATP 250 events) followed by bigger ones at Monte Carlo, Barcelona, Madrid and Rome, with a climax at Roland Garros in Paris.
+![2017 French Open - Day Thirteen](/images/skrafaclay.jpeg)
 
-![Rafael Nadal on Clay](/images/skrafaclay.jpeg)
+12 tournaments over nine weeks across picturesque Europe - that's how the claycourt season goes every year on the ATP tour during the months of April and May. The momentum builds through a series of smaller tournaments (called ATP 250 events) followed by bigger ones at Monte Carlo, Barcelona, Madrid and Rome, with a climax at Roland Garros in Paris.
 
 ##There’s something about clay
 Modern tennis witnessed a paradigm shift with the introduction of the synthetic hardcourt surface for various commercial advantages. But the downside of this standard look and feel was that tournaments started looking similar throughout the year as the season chugged along different cities of the world.
