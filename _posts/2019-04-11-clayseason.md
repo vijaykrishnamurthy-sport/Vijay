@@ -6,8 +6,6 @@ categories:
 tags:
   - sportskeeda
   - tennis
-  - Roland Garros 2019
-  - Rafael Nadal
 ---
 
 ![2017 French Open - Day Thirteen](/assets/images/skrafaclay.jpg)
