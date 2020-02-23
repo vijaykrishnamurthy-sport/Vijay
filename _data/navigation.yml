@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Bio"
+    url: /bio/
   - title: "Research"
     url: /research/
   - title: "Writing"
