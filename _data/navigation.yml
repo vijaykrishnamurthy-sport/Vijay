@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Writing"
-    url: /posts/
+    url: /articles/
   - title: "Research"
     url: /research/
   - title: "Coaching"
