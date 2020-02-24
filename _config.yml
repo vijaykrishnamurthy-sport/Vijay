@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email:
+email: vijay@groundstrokes.org
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Vijay Krishnamurthy, Professor of Sports Management,
   Doctoral candidate in SDMIMD Mysore, founder of Groundstrokes Tennis Academy, former Project
@@ -32,6 +32,12 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-158948535-1"
+    anonymize_ip: false # default
 
 include:
   - _pages
@@ -62,9 +68,6 @@ author:
   avatar : "/assets/images/vijay.jpeg"
   bio    : "Ph.D. Sports Research Scholar"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:vijay@groundstrokes.org"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/vjgroundstrokes"
