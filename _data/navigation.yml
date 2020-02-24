@@ -3,13 +3,13 @@ main:
     url: /bio/
   - title: "Research"
     url: /research/
-  - title: "Coaching"
+  - title: "Coach"
     url: /coaching/
-  - title: "Consulting"
+  - title: "Consult"
     url: /consulting/
-  - title: "Teaching"
+  - title: "Teach"
     url: /teaching/
-  - title: "Writing"
+  - title: "Write"
     url: /articles/
   - title: "Gallery"
     url: /tags/
