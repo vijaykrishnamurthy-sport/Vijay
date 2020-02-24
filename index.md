@@ -13,7 +13,6 @@ A journey that traversed from microprocessors to lawn tennis, set-top-box design
 academies, California to Karnataka, Corporate to Entrepreneurship to Academia, and electronics engineering to
 Ph.D. in sports management!
 
-So here I am.
+So here I am. I research, consult, teach, coach, and write for a living.  
 
-I research, consult, teach, coach, and write for a living.  
 Welcome to my personal website, a place that captures all my professional work.
