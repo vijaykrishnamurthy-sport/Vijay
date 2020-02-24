@@ -4,12 +4,12 @@ title: "About me"
 classes: wide
 ---
 
-**Summary:**  
+**Summary**  
 20 years of work experience that comprises of global project management, sports business
 entrepreneurship and technology design in building both products and services across
 geographies (Asia, US and Europe).
 
-**Education:**  
+**Education**  
 PhD, Sports Management, 2019-2022  
 SDMRCMS, University of Mysore
 
@@ -19,13 +19,13 @@ New Jersey Institute of Technology, USA
 B.E, E&C, 1993–1997  
 R.V. College of Engineering, Bangalore
 
-**Work Experience:**  
-Here I am, working on Chapter No. 3 of my Career Book after two decades of experience...
+**Work Experience**  
+Working on Chapter No. 3 of my Career Book ...
 
 **CHAPTER 3:**  
-Ph.D. Research Scholar | 2019 – Present
+Ph.D. Scholar | 2019 – Present
 
-Research: National sports policy review, Implementation of sports at the grassroots.
+*Research: National sports policy review, Implementation of sports at the grassroots.
 Teach: Sports Management, Social Entrepreneurship, Project Management.
 Coach: Corporates on goal-setting and performance management, as part of ICF-PCC
 
