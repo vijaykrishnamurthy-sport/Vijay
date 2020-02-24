@@ -1,6 +1,7 @@
 ---
 title: "How tennis players can benefit from technology"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Articles
 tags:

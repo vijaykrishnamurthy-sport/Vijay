@@ -1,6 +1,7 @@
 ---
 title: "The world of wheelchair tennis and India's tryst with the sport"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Articles
 tags:

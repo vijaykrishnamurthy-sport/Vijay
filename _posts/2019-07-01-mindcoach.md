@@ -1,6 +1,7 @@
 ---
 title: "Wimbledon 2019: The importance of a mind coach explained"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Articles
 tags:

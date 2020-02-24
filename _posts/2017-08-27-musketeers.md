@@ -9,7 +9,7 @@ tags:
   - tennis
 ---
 
-![Roger, Rafa and Djokovic](/assets/images/lithreem.jpg)
+![Roger, Rafa and Djokovic](/assets/images/lithreem.jpeg)
 
 **Story of an Artist, Warrior and a Human Robot**  
 

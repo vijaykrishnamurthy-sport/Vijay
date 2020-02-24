@@ -1,6 +1,7 @@
 ---
 title: "The tale of 3 Cups – Davis, Laver, and ATP"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Articles
 tags:
