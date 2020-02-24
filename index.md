@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+class: wide
 title: "Who am I?"
 ---
 
