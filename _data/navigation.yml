@@ -3,10 +3,10 @@ main:
     url: /bio/
   - title: "Research"
     url: /research/
+  - title: "Consulting"
+    url: /consulting/
   - title: "Coach"
     url: /coaching/
-  - title: "Consult"
-    url: /consulting/
   - title: "Teach"
     url: /teaching/
   - title: "Write"
