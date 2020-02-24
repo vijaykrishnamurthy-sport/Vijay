@@ -11,7 +11,7 @@ would’ve laughed it off as a good joke.
 
 A journey that traversed from microprocessors to lawn tennis, set-top-box design to sports
 academies, New Jersey and California to Karnataka, Corporate to Entrepreneurship to Academia, and electronics engineering to
-Ph.D. research in sports management!
+Ph.D. in sports management!
 
 So here I am.
 
