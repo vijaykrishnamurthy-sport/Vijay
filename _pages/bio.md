@@ -1,6 +1,7 @@
 ---
 permalink: /bio/
 title: "About me"
+classes: wide
 ---
 
 **Summary:**  
@@ -8,15 +9,15 @@ title: "About me"
 entrepreneurship and technology design in building both products and services across
 geographies (Asia, US and Europe).
 
-**Education:** 
+**Education:**  
 PhD, Sports Management, 2019 - Present
 SDMIMD, University of Mysore
 
-M.S, EE, 1998 – 1999
-New Jersey Institute of Technology (USA)
+M.S, EE, 1998 – 1999  
+New Jersey Institute of Technology (USA)  
 
-B.E, E&C, 1993 – 1997
-R.V. College of Engineering (Bangalore)
+B.E, E&C, 1993 – 1997  
+R.V. College of Engineering (Bangalore)  
 
 **Work Experience:**  
 Here I am, working on Chapter No. 3 of my Career Book after two decades of experience...
@@ -28,7 +29,7 @@ Research: National sports policy review, Implementation of sports at the grassro
 Teach: Sports Management, Social Entrepreneurship, Project Management.
 Coach: Corporates on goal-setting and performance management, as part of ICF-PCC
 
-<figure class="half">
+<figure class="third">
     <a href="/assets/images/sdmimd.png"><img src="/assets/images/sdmimd.png"></a>
     <a href="/assets/images/rvce.png"><img src="/assets/images/rvce.png"></a>
     <a href="/assets/images/icf.png"><img src="//assets/images/icf.png"></a>
