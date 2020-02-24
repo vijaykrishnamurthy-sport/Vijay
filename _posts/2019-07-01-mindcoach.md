@@ -17,7 +17,6 @@ In the 2005 Australian Open men’s semifinals, the defending champion Roger Fed
 Was it an instinctive moment of play? Did Roger actually think he can pull it off? Or was it something that even players can’t justify due to a cluttered mind? 
 
 **No interaction allowed**  
-
 Tennis is probably the only sport where a player is prohibited from interacting with his or her coach during the entire match. Although interaction is allowed in the team format (Davis Cup) and has been tried a few times in the Women’s tour, it has stirred debates by purists that an individual sport does not need on-court coaching. A player is good enough to battle it out by themselves is what they opined.
 
 Very often, it has been observed that in the initial stages of the match there is a thorough way of handling things mentally. But, as the match progresses into a tough battle, things start to change both physically and mentally.
@@ -27,7 +26,6 @@ The longest tennis match in history lasted 11 hours and five minutes between Joh
 “Although this is a unique rule in tennis, a player needs to be taught early on to accept the ground rules of the sport and be educated on a mental process to deal with it effectively” says Arjun Gautham, a mind coach who works with elite players.
 
 **Role of a mind coach**  
-
 When the game is on, there is constant pressure and uncertainty through different passages of play. A mind coach helps the player with the overall 'mind map' planned prior to each game.
 
 “Even after a tough point, players can be taught to be aware of re-grouping themselves to stay fresh for next point. The scoreboard can be a distraction sometimes and players drift into the score or situation instead of executing their planned strategy,” says Arjun Gautham.
