@@ -10,8 +10,8 @@ entrepreneurship and technology design in building both products and services ac
 geographies (Asia, US and Europe).
 
 **Education:**  
-PhD, Sports Management, 2019-2022
-SDM-RCMS, University of Mysore
+PhD, Sports Management, 2019-2022  
+SDMRCMS, University of Mysore
 
 M.S, EE, 1998–1999  
 New Jersey Institute of Technology, USA
