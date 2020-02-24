@@ -1,6 +1,7 @@
 ---
 title: "Three Musketeers of Tennis!"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Articles
 tags:

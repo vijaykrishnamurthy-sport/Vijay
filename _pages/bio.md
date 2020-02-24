@@ -40,7 +40,19 @@ Founder, Head Coach | 2012 - 2018
 
 With USPTA certification, I founded Groundstrokes Academy to develop a grassroots tennis program for junior players in Bangalore. Also, I worked as ‘Head, After School Program’ at TENVIC, a firm co-founded by former Indian cricketer Anil Kumble and International Table Tennis player Vasanth Bharadwaj
 
+<figure class="half">
+    <a href="/assets/images/gs.png"><img src="/assets/images/gs.png"></a>
+    <a href="/assets/images/tenvic.png"><img src="/assets/images/tenvic.png"></a>
+</figure>
+
 **CHAPTER 1:**  
 Electronics Engineer, Project Manager | 1998 - 2011
 
 Worked for large Corporate enterprises such as Analog Devices, Broadcom, Magma and Pace/Tata Sky in the US &Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
+
+<figure class="fourth">
+    <a href="/assets/images/ad.png"><img src="/assets/images/ad.png"></a>
+    <a href="/assets/images/bd.png"><img src="/assets/images/bd.png"></a>
+    <a href="/assets/images/pace.png"><img src="/assets/images/pace.png"></a>
+    <a href="/assets/images/tatasky.png"><img src="/assets/images/tatasky.png"></a>
+</figure>
