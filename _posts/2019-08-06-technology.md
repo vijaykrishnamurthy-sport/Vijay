@@ -1,5 +1,5 @@
 ---
-title: "The need for a student-athlete system in India"
+title: "How tennis players can benefit from technology"
 excerpt_separator: "<!--more-->"
 categories:
   - Articles
@@ -12,7 +12,7 @@ tags:
 ![tennis](/assets/images/skstudent.jpg)
 
 Technology started as an enabler in our daily lives, then shifted to being an intruder and now it is termed an invader. And technological advances haven't spared the world of sport or its athletes either.
-
+<!--more-->
 On July 14th, we witnessed a double spectacle like never before at two holy sporting arenas that are a few kilometres apart – Lord's and Wimbledon. The margins in modern sport have shifted to a game of millimeters, and no referee or linesman in either of these high-voltage matches would have wanted to be in that zone to separate the winners from the losers.
 
 The climax of a sporting event played by humans now rides on a digital lottery, so to speak. Terabytes of past data are combined with the live moment in contention to predict where the ball would precisely land. With matters becoming increasingly difficult for the human eye to sense and process in real-time, the only fallback option is on technology to bail us out.
