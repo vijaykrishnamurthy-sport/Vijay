@@ -32,7 +32,7 @@ Coach: Corporates on goal-setting and performance management, as part of ICF-PCC
 <figure class="third">
     <a href="/assets/images/sdmimd.png"><img src="/assets/images/sdmimd.png"></a>
     <a href="/assets/images/rvce.png"><img src="/assets/images/rvce.png"></a>
-    <a href="/assets/images/icf.png"><img src="//assets/images/icf.png"></a>
+    <a href="/assets/images/icf.png"><img src="/assets/images/icf.png"></a>
 </figure>
 
 **CHAPTER 2:**  
