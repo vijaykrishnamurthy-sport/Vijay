@@ -13,3 +13,5 @@ main:
     url: /articles/ 
   - title: "Gallery"
     url: /tags/
+  - title: "Contact me"
+    url: /tags/

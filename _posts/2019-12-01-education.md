@@ -11,6 +11,7 @@ tags:
 ---
 
 The 2020 Tokyo Olympics is less than a year away. Already there’s a buzz: How many medals will India win this time? These discussions will increase in intensity as the date of the quadrennial Olympics draws closer. As the event begins, media will lament systemic problems, starting from the quality of municipal playgrounds to world-class athlete preparation. A few months after the Olympics, life will go back to normal, and citizens will become resigned to the also-ran status of India.
+<!--more-->
 
 A child goes to school to learn how to read, write and articulate. For the majority of Indian parents, education is synonymous with proficiency in English, science, and mathematics. However, the draft National Education Policy 2019 recommends sports as a compulsory subject and advises that sports education should not be labeled ‘extra-curricular’ or ‘co-curricular’. While most school managements are aware of the importance of sports education, few are aware of ways and means to introduce sustainable sports education programmes. The four basic requirements of a sports programme are: infrastructure, coaches, curriculum and scientific assessment.
 
