@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: ""
 permalink: /articles/
 layout: tags
 author_profile: true
