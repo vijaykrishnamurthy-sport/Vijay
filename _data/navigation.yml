@@ -7,9 +7,9 @@ main:
     url: /consulting/
   - title: "Teach"
     url: /teaching/ 
-  - title: "Articles"
-    url: /articles/
   - title: "Coach"
     url: /coaching/
+  - title: "Articles"
+    url: /articles/ 
   - title: "Gallery"
     url: /tags/
