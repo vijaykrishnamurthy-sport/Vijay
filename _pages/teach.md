@@ -1,7 +1,6 @@
 ---
 permalink: /teach/
-title: "Curriculum and Teaching Interests"
+title: ""
 classes: wide
 ---
-
 About teaching

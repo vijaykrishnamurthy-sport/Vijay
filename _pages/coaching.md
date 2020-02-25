@@ -1,7 +1,6 @@
 ---
 permalink: /coaching/
-title: "Executive Coaching"
+title: ""
 classes: wide
 ---
-
 About coaching methodology, testimonials, and why coaching by ICF?

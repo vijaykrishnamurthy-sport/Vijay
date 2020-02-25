@@ -1,6 +1,6 @@
 ---
 permalink: /consulting/
-title: "Current Engagements"
+title: ""
 ---
 
 LIST CURRENT CONSULTING ENGAGEMENTS HERE

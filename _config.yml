@@ -20,7 +20,7 @@ description:
   SDM University of Mysore, Founder of Groundstrokes Tennis Academy, former Project
   Manager at PACE, worked on Set Top Box for Tata SKY, trained as a VLSI Electronics Engineer
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown

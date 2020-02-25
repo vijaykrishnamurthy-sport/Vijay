@@ -3,7 +3,6 @@ permalink: /research/
 title: ""
 classes: wide
 ---
-
 **Research Areas**  
 Grassroots Sports Education, Organisational Strategy, Sports Policy
 

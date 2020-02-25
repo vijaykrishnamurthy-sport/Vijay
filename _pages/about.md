@@ -3,7 +3,6 @@ permalink: /about/
 title: "About me"
 classes: wide
 ---
-
 **Summary**  
 20+ years of work experience that comprises of technology design, global project management, and sports 
 entrepreneurship across geographies - India, US and Europe.
