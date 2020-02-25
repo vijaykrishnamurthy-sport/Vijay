@@ -12,6 +12,6 @@ main:
   - title: "Articles"
     url: /articles/ 
   - title: "Gallery"
-    url: /tags/
+    url: /gallery/
   - title: "Contact"
-    url: /tags/
+    url: /contact/
