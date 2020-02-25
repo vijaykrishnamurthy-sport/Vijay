@@ -5,8 +5,8 @@ classes: wide
 ---
 
 **Summary**  
-20+ years of work experience that comprises of global project management, sports academy
-entrepreneurship and technology design across geographies (India, US and Europe).
+20+ years of work experience that comprises of technology design, global project management, and sports 
+entrepreneurship and  across geographies (India, US and Europe).
 
 **Education**  
 Ph.D., Sports Management (2019-2022)  
