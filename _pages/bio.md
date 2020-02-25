@@ -33,5 +33,5 @@ With USPTA certification, I founded Groundstrokes Academy to develop a grassroot
 
 **CHAPTER 1**  
 *Electronics Engineer, Project Manager (1998 - 2011)*  
-Worked for large Corporate multi-national enterprises such as Analog Devices, Broadcom, Magma and Pace/Tata Sky in the US & Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
+Worked for large Corporate multi-national enterprises such as Analog Devices, Broadcom, Magma, Philips, Tata Sky in the US & Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
 
