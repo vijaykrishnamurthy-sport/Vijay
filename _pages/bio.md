@@ -10,49 +10,33 @@ entrepreneurship and technology design in building both products and services ac
 geographies (Asia, US and Europe).
 
 **Education**  
-Ph.D., Sports Management (2019-2022)
+Ph.D., Sports Management (2019-2022)  
 SDMRCMS, University of Mysore
 
-M.S, Electronics (1998–1999)
+M.S, Electronics (1998–1999)  
 New Jersey Institute of Technology, USA
 
-B.E, Electronics (1993–1997)
+B.E, Electronics (1993–1997)  
 R.V. College of Engineering, Bangalore
 
 **Work Experience**  
 Currently working on Chapter No. 3 of my Career Book ...
 
-**CHAPTER 3:**  
+*CHAPTER 3:* 
 Ph.D. Scholar (2019 – Present) 
 
 Research: Sports policy review, Strategy and implementation at the grassroots.
 Teach: Sports Management, Social Entrepreneurship, Project Management.
 Coach: Corporates on goal-setting and performance management. 
 
-<figure class="third">
-    <a href="/assets/images/sdmimd.png"><img src="/assets/images/sdmimd.png"></a>
-    <a href="/assets/images/rvce.png"><img src="/assets/images/rvce.png"></a>
-    <a href="/assets/images/icf.png"><img src="/assets/images/icf.png"></a>
-</figure>
-
-**CHAPTER 2:**  
+*CHAPTER 2:* 
 Founder, Head Coach (2012 - 2018)
 
 With USPTA certification, I founded Groundstrokes Academy to develop a grassroots tennis program for junior players in Bangalore. Also, I worked as ‘Head, After School Program’ at TENVIC, a firm co-founded by former Indian cricketer Anil Kumble and International Table Tennis player Vasanth Bharadwaj
 
-<figure class="half">
-    <a href="/assets/images/gs.png"><img src="/assets/images/gs.png"></a>
-    <a href="/assets/images/tenvic.png"><img src="/assets/images/tenvic.png"></a>
-</figure>
 
-**CHAPTER 1:**  
+*CHAPTER 1:* 
 Electronics Engineer, Project Manager (1998 - 2011)
 
 Worked for large Corporate multi-national enterprises such as Analog Devices, Broadcom, Magma and Pace/Tata Sky in the US & Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
 
-<figure class="fourth">
-    <a href="/assets/images/ad.png"><img src="/assets/images/ad.png"></a>
-    <a href="/assets/images/bd.png"><img src="/assets/images/bd.png"></a>
-    <a href="/assets/images/pace.png"><img src="/assets/images/pace.png"></a>
-    <a href="/assets/images/tatasky.png"><img src="/assets/images/tatasky.png"></a>
-</figure>
