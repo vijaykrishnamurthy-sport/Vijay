@@ -1,9 +1,9 @@
 ---
 permalink: /research/
-title: "Research Study"
+title: ""
 ---
 
-**Research Areas**
+**Research Areas**  
 Sports Policy, Organisational Strategy, Grassroots Sports Education 
 
 **Ph.D. Thesis**  
