@@ -6,7 +6,7 @@ title: "Welcome!"
 ---
 Here is my personal website, a place that captures all my professional work.
 
-Two decades ago (1997) when I graduated from college, if anyone had told me that I would
+Back in 1997 when I graduated from college, if anyone had told me that I would
 travel around the world, navigate through multiple careers, and enjoy work every day, I
 would’ve laughed it off as a good joke.
 
