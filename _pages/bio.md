@@ -1,6 +1,6 @@
 ---
 permalink: /bio/
-title: "About me"
+title: ""
 classes: wide
 ---
 
