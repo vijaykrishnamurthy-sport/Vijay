@@ -5,7 +5,7 @@ classes: wide
 ---
 
 **Summary**  
-20 years of work experience that comprises of global project management, sports academy
+20+ years of work experience that comprises of global project management, sports academy
 entrepreneurship and technology design across geographies (India, US and Europe).
 
 **Education**  
