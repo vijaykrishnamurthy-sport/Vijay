@@ -12,10 +12,10 @@ entrepreneurship across geographies - India, US and Europe.
 Ph.D., Sports Management (2019-2022)  
 SDMRCMS, University of Mysore
 
-M.S, Electronics (1998–1999)  
+M.S., Electronics (1998–1999)  
 New Jersey Institute of Technology, USA
 
-B.E, Electronics (1993–1997)  
+B.E., Electronics (1993–1997)  
 R.V. College of Engineering, Bangalore
 
 **Work Experience**  
@@ -23,9 +23,7 @@ Currently working on Chapter No. 3 of my Career Book ...
 
 **CHAPTER 3**  
 *Ph.D. Scholar (2019 – Present)*  
-Research: Sports policy review, Strategy and implementation at the grassroots.  
-Teach: Sports Management, Social Entrepreneurship, Project Management.  
-Coach: Corporates on goal-setting and performance management.   
+Working on my Ph.D. thesis that involves exploratory study on the implementation of the sports policy at the grassroots. My teaching interests include Business of Sport, Project Management, and Social Entrepreneurship. Also, coach the corporate clients on goal-setting and performance management. 
 
 **CHAPTER 2**  
 *Founder, Head Coach (2012 - 2018)*  
