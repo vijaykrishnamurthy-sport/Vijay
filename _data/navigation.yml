@@ -5,11 +5,11 @@ main:
     url: /research/
   - title: "Consulting"
     url: /consulting/
-  - title: "Coach"
-    url: /coaching/
-  - title: "Teach"
-    url: /teaching/
   - title: "Write"
     url: /articles/
+  - title: "Coach"
+    url: /Coaching/
+  - title: "Teach"
+    url: /Teaching/
   - title: "Gallery"
     url: /tags/
