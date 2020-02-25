@@ -18,8 +18,7 @@ New Jersey Institute of Technology, USA
 B.E., Electronics (1993–1997)  
 R.V. College of Engineering, Bangalore
 
-**Work Experience**  
-Currently working on Chapter No. 3 of my Career Book ...
+**Career Book**  
 
 **Chapter 3**  
 *Ph.D. Scholar* (2019 – Present)  
