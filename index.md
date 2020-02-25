@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 title: "Welcome!"
 ---
-Here is my personal website, a place that captures all my professional work.
+Here is my personal website, a place that captures all the work I do.
 
 Back in 1997 when I graduated from college, if anyone had told me that I would
 travel around the world, navigate through multiple careers, and enjoy work every day, I
