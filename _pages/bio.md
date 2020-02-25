@@ -23,7 +23,7 @@ Currently working on Chapter No. 3 of my Career Book ...
 
 **CHAPTER 3**  
 *Ph.D. Scholar (2019 – Present)*  
-Working on my Ph.D. thesis that involves exploratory study on the implementation of the sports policy at the grassroots. My teaching interests include Business of Sport, Project Management, and Social Entrepreneurship. Also, coach the corporate clients on goal-setting and performance management. 
+Working on my Ph.D. thesis that involves study on the implementation of sports policy at the grassroots. My teaching interests include Business of Sport, Project Management, and Social Entrepreneurship. Also, coach the corporate clients on goal-setting and performance management. 
 
 **CHAPTER 2**  
 *Founder, Head Coach (2012 - 2018)*  
