@@ -10,24 +10,24 @@ entrepreneurship and technology design in building both products and services ac
 geographies (Asia, US and Europe).
 
 **Education**  
-PhD, Sports Management, 2019-2022  
+Ph.D., Sports Management (2019-2022)
 SDMRCMS, University of Mysore
 
-M.S, EE, 1998–1999  
+M.S, Electronics (1998–1999)
 New Jersey Institute of Technology, USA
 
-B.E, E&C, 1993–1997  
+B.E, Electronics (1993–1997)
 R.V. College of Engineering, Bangalore
 
 **Work Experience**  
-Working on Chapter No. 3 of my Career Book ...
+Currently working on Chapter No. 3 of my Career Book ...
 
 **CHAPTER 3:**  
-Ph.D. Scholar | 2019 – Present
+Ph.D. Scholar (2019 – Present) 
 
-*Research: National sports policy review, Implementation of sports at the grassroots.
+Research: Sports policy review, Strategy and implementation at the grassroots.
 Teach: Sports Management, Social Entrepreneurship, Project Management.
-Coach: Corporates on goal-setting and performance management, as part of ICF-PCC
+Coach: Corporates on goal-setting and performance management. 
 
 <figure class="third">
     <a href="/assets/images/sdmimd.png"><img src="/assets/images/sdmimd.png"></a>
@@ -36,7 +36,7 @@ Coach: Corporates on goal-setting and performance management, as part of ICF-PCC
 </figure>
 
 **CHAPTER 2:**  
-Founder, Head Coach | 2012 - 2018
+Founder, Head Coach (2012 - 2018)
 
 With USPTA certification, I founded Groundstrokes Academy to develop a grassroots tennis program for junior players in Bangalore. Also, I worked as ‘Head, After School Program’ at TENVIC, a firm co-founded by former Indian cricketer Anil Kumble and International Table Tennis player Vasanth Bharadwaj
 
@@ -46,9 +46,9 @@ With USPTA certification, I founded Groundstrokes Academy to develop a grassroot
 </figure>
 
 **CHAPTER 1:**  
-Electronics Engineer, Project Manager | 1998 - 2011
+Electronics Engineer, Project Manager (1998 - 2011)
 
-Worked for large Corporate enterprises such as Analog Devices, Broadcom, Magma and Pace/Tata Sky in the US &Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
+Worked for large Corporate multi-national enterprises such as Analog Devices, Broadcom, Magma and Pace/Tata Sky in the US & Europe. Involved in the design and delivery of products in semiconductor/consumer electronics space.
 
 <figure class="fourth">
     <a href="/assets/images/ad.png"><img src="/assets/images/ad.png"></a>
