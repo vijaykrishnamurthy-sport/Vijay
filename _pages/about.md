@@ -1,5 +1,5 @@
 ---
-permalink: /bio/
+permalink: /about/
 title: "About me"
 classes: wide
 ---
@@ -10,7 +10,7 @@ entrepreneurship and technology design in building both products and services ac
 geographies (Asia, US and Europe).
 
 **Education:**  
-PhD, Sports Management, 2019 - Present
+PhD, Sports Management, 2019 - Present  
 SDMIMD, University of Mysore
 
 M.S, EE, 1998 – 1999  

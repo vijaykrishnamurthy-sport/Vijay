@@ -1,15 +1,15 @@
 main:
-  - title: "Bio"
-    url: /bio/
+  - title: "About"
+    url: /about/
   - title: "Research"
-    url: /research/
-  - title: "Coaching"
-    url: /coaching/
+    url: /research/    
   - title: "Consulting"
     url: /consulting/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Writing"
+  - title: "Teach"
+    url: /teaching/ 
+  - title: "Write"
     url: /articles/
+  - title: "Coach"
+    url: /coaching/
   - title: "Gallery"
     url: /tags/
