@@ -3,10 +3,6 @@ permalink: /teach/
 title: ""
 classes: wide
 ---
-**Teaching interests**  
-Business of Sport, Project Management, Social Entrepreneurship
-
-**Faculty Positions**  
 
 *Visiting Faculty*  
 **SDM Institute of Management**     
