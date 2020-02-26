@@ -23,18 +23,10 @@ gallery:
     image_path: /assets/images/gallery/9.jpg
     alt: "/assets/images/gallery/9.jpg"
     title: "With Professor Jagadeesh"
-  - url: /assets/images/gallery/11.png
-    image_path: /assets/images/gallery/11.png
-    alt: "/assets/images/gallery/11.png"
-    title: "With Faculty of SDMIMD"
   - url: /assets/images/gallery/10.jpg
     image_path: /assets/images/gallery/10.jpg
     alt: "/assets/images/gallery/10.jpg"
     title: "At Codewave Technologies"
-  - url: /assets/images/gallery/12.png
-    image_path: /assets/images/gallery/12.png
-    alt: "/assets/images/gallery/12.png"
-    title: "At RV Institute of Management"
   - url: /assets/images/gallery/7.JPG
     image_path: /assets/images/gallery/7.JPG
     alt: "/assets/images/gallery/7.JPG"
@@ -47,6 +39,14 @@ gallery:
     image_path: /assets/images/gallery/6.png
     alt: "/assets/images/gallery/6.png"
     title: "With PGPSM students"
+  - url: /assets/images/gallery/11.png
+    image_path: /assets/images/gallery/11.png
+    alt: "/assets/images/gallery/11.png"
+    title: "With Faculty of SDMIMD"
+  - url: /assets/images/gallery/12.png
+    image_path: /assets/images/gallery/12.png
+    alt: "/assets/images/gallery/12.png"
+    title: "At RV Institute of Management"
   
 ---
 {% include gallery %}
