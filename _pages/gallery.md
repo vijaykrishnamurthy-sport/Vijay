@@ -3,10 +3,10 @@ permalink: /gallery/
 title: ""
 classes: wide
 gallery:
-  - url: /assets/images/gallery/7.JPG
-    image_path: /assets/images/gallery/7.JPG
-    alt: "/assets/images/gallery/7.JPG"
-    title: "Panelist at Startup Charcha, SDMIMD Mysore"
+  - url: /assets/images/gallery/1.JPG
+    image_path: /assets/images/gallery/1.JPG
+    alt: "/assets/images/gallery/1.JPG"
+    title: "At IIMB Doctoral Conference"
   - url: /assets/images/gallery/3.JPG
     image_path: /assets/images/gallery/3.JPG
     alt: "/assets/images/gallery/3.JPG"
@@ -23,18 +23,6 @@ gallery:
     image_path: /assets/images/gallery/9.jpg
     alt: "/assets/images/gallery/9.jpg"
     title: "With Professor Jagadeesh"
-  - url: /assets/images/gallery/17.png
-    image_path: /assets/images/gallery/17.png
-    alt: "/assets/images/gallery/17.png"
-    title: "At SDMIMD E-Cell event"
-  - url: /assets/images/gallery/1.JPG
-    image_path: /assets/images/gallery/1.JPG
-    alt: "/assets/images/gallery/1.JPG"
-    title: "At IIMB Doctoral Conference"
-  - url: /assets/images/gallery/6.png
-    image_path: /assets/images/gallery/6.png
-    alt: "/assets/images/gallery/6.png"
-    title: "With PGPSM students"
   - url: /assets/images/gallery/11.png
     image_path: /assets/images/gallery/11.png
     alt: "/assets/images/gallery/11.png"
@@ -47,5 +35,18 @@ gallery:
     image_path: /assets/images/gallery/12.png
     alt: "/assets/images/gallery/12.png"
     title: "At RV Institute of Management"
+  - url: /assets/images/gallery/7.JPG
+    image_path: /assets/images/gallery/7.JPG
+    alt: "/assets/images/gallery/7.JPG"
+    title: "Panelist at Startup Charcha, SDMIMD Mysore"
+  - url: /assets/images/gallery/17.png
+    image_path: /assets/images/gallery/17.png
+    alt: "/assets/images/gallery/17.png"
+    title: "At SDMIMD E-Cell event"
+  - url: /assets/images/gallery/6.png
+    image_path: /assets/images/gallery/6.png
+    alt: "/assets/images/gallery/6.png"
+    title: "With PGPSM students"
+  
 ---
 {% include gallery %}
