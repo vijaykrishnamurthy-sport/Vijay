@@ -19,13 +19,13 @@ gallery:
     image_path: /assets/images/gallery/5.JPG
     alt: "/assets/images/gallery/5.JPG"
     title: "With Somdev Devvarman"
-  - url: /assets/images/gallery/4.JPG
-    image_path: /assets/images/gallery/4.JPG
-    alt: "/assets/images/gallery/4.JPG"
+  - url: /assets/images/gallery/4.jpg
+    image_path: /assets/images/gallery/4.jpg
+    alt: "/assets/images/gallery/4.jpg"
     title: "With Professor M R Suresh"
-  - url: /assets/images/gallery/9.JPG
-    image_path: /assets/images/gallery/9.JPG
-    alt: "/assets/images/gallery/9.JPG"
+  - url: /assets/images/gallery/9.jpg
+    image_path: /assets/images/gallery/9.jpg
+    alt: "/assets/images/gallery/9.jpg"
     title: "With Professor Jagadeesh"
   - url: /assets/images/gallery/17.png
     image_path: /assets/images/gallery/17.png
