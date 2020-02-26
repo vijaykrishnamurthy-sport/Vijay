@@ -9,13 +9,13 @@ classes: wide
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/assets/images/gallery/3.jpg"><img src="/assets/images/gallery/3.JPG"width="193" height="130"></a>
-    <a href="/assets/images/gallery/4.jpg"><img src="/assets/images/gallery/4.jpg"width="193" height="130"></a>
+    <a href="/assets/images/gallery/3.jpg"><img src="/assets/images/gallery/3.JPG" width="193" height="130"></a>
+    <a href="/assets/images/gallery/4.jpg"><img src="/assets/images/gallery/4.jpg" width="193" height="130"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/assets/images/gallery/5.jpg"><img src="/assets/images/gallery/5.jpg"width="193" height="130"></a>
-    <a href="/assets/images/gallery/6.png"><img src="/assets/images/gallery/6.png"width="193" height="130"></a>
+    <a href="/assets/images/gallery/5.jpg"><img src="/assets/images/gallery/5.jpg" width="193" height="130"></a>
+    <a href="/assets/images/gallery/6.png"><img src="/assets/images/gallery/6.png" width="193" height="130"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <figure class="half">
@@ -39,7 +39,7 @@ classes: wide
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/assets/images/gallery/15.jpg"><img src="/assets/images/gallery/15.jpg"> width="193" height="130"</a>
-    <a href="/assets/images/gallery/16.png"><img src="/assets/images/gallery/16.png" width="193" height="130"></a>
+    <a href="/assets/images/gallery/15.jpg"><img src="/assets/images/gallery/15.jpg" width="193" height="200"></a>
+    <a href="/assets/images/gallery/16.png"><img src="/assets/images/gallery/16.png" width="193" height="200"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
