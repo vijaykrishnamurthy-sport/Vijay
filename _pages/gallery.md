@@ -3,18 +3,16 @@ permalink: /gallery/
 title: ""
 classes: wide
 gallery:
- - url: /assets/images/gallery/7.JPG
+  - url: /assets/images/gallery/7.JPG
     image_path: /assets/images/gallery/7.JPG
     alt: "/assets/images/gallery/7.JPG"
     title: "Image 1 title caption"
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 ---
 
 <!-- <figure class="half">
     <a href="/assets/images/gallery/7.JPG"><img src="/assets/images/gallery/7.JPG" id="responsive-image"></a>
     <figcaption>Panelist at Startup Charcha, SDMIMD Mysore</figcaption>
-        <a href="/assets/images/gallery/8.JPG"><img src="/assets/images/gallery/8.JPG" id="responsive-image"></a>
-
+    <a href="/assets/images/gallery/8.JPG"><img src="/assets/images/gallery/8.JPG" id="responsive-image"></a>
 </figure>
 <figure class="half">
     <a href="/assets/images/gallery/3.JPG"><img src="/assets/images/gallery/3.JPG" id="responsive-image"></a>
