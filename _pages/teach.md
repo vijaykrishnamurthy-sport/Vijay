@@ -6,12 +6,12 @@ classes: wide
 **Teaching interests**  
 Business of Sport, Project Management, Social Entrepreneurship
 
-**Faculty Positions**  
+**Teaching Assignments**  
 
-Visiting Faculty, PGP Sports Management  
-*SDM Institute of Management, University of Mysore*     
+*Visiting Faculty*, **SDM Institute of Management, University of Mysore**  
+Course - PGP Sports Management 
 Subject - Business of Sport
 
-Visiting Faculty, MBA Program   
-*RV Institute of Management, Bangalore University*      
+*Visiting Faculty*, **RV Institute of Management, Bangalore University**        
+Course - MBA 
 Subjects - Project Management, Social Entrepreneurship
