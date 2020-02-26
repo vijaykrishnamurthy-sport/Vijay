@@ -2,12 +2,17 @@
 permalink: /gallery/
 title: ""
 classes: wide
+gallery:
+  - url: /assets/images/gallery/7.JPG
+    image_path: /assets/images/gallery/7.JPG
+    alt: "/assets/images/gallery/7.JPG"
+    title: "Image 1 title caption"
 ---
-#responsive-image {  width: 100%;  height: auto; } 
-<figure class="half">
+<!-- <figure class="half">
     <a href="/assets/images/gallery/7.JPG"><img src="/assets/images/gallery/7.JPG" id="responsive-image"></a>
-    <a href="/assets/images/gallery/8.JPG"><img src="/assets/images/gallery/8.JPG" id="responsive-image"></a>
     <figcaption>Panelist at Startup Charcha, SDMIMD Mysore</figcaption>
+        <a href="/assets/images/gallery/8.JPG"><img src="/assets/images/gallery/8.JPG" id="responsive-image"></a>
+
 </figure>
 <figure class="half">
     <a href="/assets/images/gallery/3.JPG"><img src="/assets/images/gallery/3.JPG" id="responsive-image"></a>
@@ -33,4 +38,4 @@ classes: wide
     <a href="/assets/images/gallery/10.jpg"><img src="/assets/images/gallery/10.jpg" id="responsive-image"></a>
     <a href="/assets/images/gallery/12.png"><img src="/assets/images/gallery/12.png" id="responsive-image"></a>
     <figcaption>L-R At Codewave Technologies and RV Institute of Management</figcaption>
-</figure>
+</figure> -->
