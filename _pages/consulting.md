@@ -1,6 +1,7 @@
 ---
 permalink: /consulting/
 title: ""
+classes:wide 
 ---
 
 *Research Consultant*   
