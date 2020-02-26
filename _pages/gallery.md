@@ -10,7 +10,7 @@ classes: wide
 </figure>
 <figure class="half">
     <a href="/assets/images/gallery/3.JPG"><img src="/assets/images/gallery/3.JPG" width="193" height="130"></a>
-    <a href="/assets/images/gallery/5.jpg"><img src="/assets/images/gallery/5.jpg" width="193" height="130"></a>
+    <a href="/assets/images/gallery/5.JPG"><img src="/assets/images/gallery/5.JPG" width="193" height="130"></a>
     <figcaption>L-R With Rahul Dravid and Somdev Devvarman</figcaption>
 </figure>
 <figure class="half">
@@ -29,7 +29,7 @@ classes: wide
     <figcaption>L-R With PGPSM students and faculty of SDMIMD</figcaption>
 </figure>
 <figure class="half">
-    <a href="/assets/images/gallery/10.png"><img src="/assets/images/gallery/10.png" width="193" height="130"></a>
+    <a href="/assets/images/gallery/10.jpg"><img src="/assets/images/gallery/10.jpg" width="193" height="130"></a>
     <a href="/assets/images/gallery/12.png"><img src="/assets/images/gallery/12.png" width="193" height="130"></a>
     <figcaption>L-R At Codewave Technologies and RV Institute of Management</figcaption>
 </figure>
