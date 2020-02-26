@@ -3,4 +3,8 @@ permalink: /coaching/
 title: ""
 classes: wide
 ---
-About coaching methodology, testimonials, and why coaching by ICF?
+
+**Coaching Areas**  
+Goal-setting, Project Management  
+
+Currently part of the ICF® PCC credentialed program,  to coach corporate employees on goal-setting and project management. 
