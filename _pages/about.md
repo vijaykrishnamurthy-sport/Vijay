@@ -4,7 +4,7 @@ title: ""
 classes: wide
 ---
 **Summary**  
-20+ years of experience encompassing sports entrepreneurship, global project management, and technology across geographies - India, US and Europe.
+20+ years of experience encompassing technology design, sports entrepreneurship, and global project management across geographies - India, US and Europe.
 
 **Education**  
 Ph.D., Sports Management *(2019-2022)*  
