@@ -52,4 +52,4 @@ gallery:
     alt: "/assets/images/gallery/12.png"
     title: "At RV Institute of Management"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
