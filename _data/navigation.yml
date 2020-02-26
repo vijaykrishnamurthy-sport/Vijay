@@ -5,9 +5,9 @@ main:
     url: /research/    
   - title: "Consulting"
     url: /consulting/
-  - title: "Teach"
+  - title: "Teaching"
     url: /teach/ 
-  - title: "Coach"
+  - title: "Coaching"
     url: /coaching/
   - title: "Published"
     url: /articles/ 
