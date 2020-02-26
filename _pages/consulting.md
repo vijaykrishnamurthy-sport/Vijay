@@ -6,7 +6,7 @@ classes: wide
 
 *Research Consultant*   
 **Sports Village Foundation**  
-Work as a Consultant to build a scientifically researched sports program to address complex problems (literacy, healthcare) of under-priveleged children in Government schools. 
+Work as a Consultant to build a scientifically researched program to address complex problems (literacy, healthcare) of under-priveleged children in Government schools. 
 
 *Management Consultant*   
 **Catalyst Management Services**    
