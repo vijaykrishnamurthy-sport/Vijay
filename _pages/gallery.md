@@ -8,6 +8,7 @@ gallery:
     alt: "/assets/images/gallery/7.JPG"
     title: "Image 1 title caption"
 ---
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 <!-- <figure class="half">
     <a href="/assets/images/gallery/7.JPG"><img src="/assets/images/gallery/7.JPG" id="responsive-image"></a>
