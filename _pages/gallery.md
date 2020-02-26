@@ -7,10 +7,6 @@ gallery:
     image_path: /assets/images/gallery/7.JPG
     alt: "/assets/images/gallery/7.JPG"
     title: "Panelist at Startup Charcha, SDMIMD Mysore"
-  - url: /assets/images/gallery/8.JPG
-    image_path: /assets/images/gallery/8.JPG
-    alt: "/assets/images/gallery/8.JPG"
-    title: "Panelist at Startup Charcha, SDMIMD Mysore"
   - url: /assets/images/gallery/3.JPG
     image_path: /assets/images/gallery/3.JPG
     alt: "/assets/images/gallery/3.JPG"
