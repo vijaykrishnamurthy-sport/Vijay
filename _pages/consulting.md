@@ -10,4 +10,4 @@ Work as a Consultant to build a scientifically researched sports program to addr
 
 *Management Consultant*   
 **Catalyst Management Services**    
-Worked as a Consultant to design the project management framework for portfolio managers working in the social sector. 
+Worked as a Consultant to design the project management framework for portfolio managers in the social sector. 
