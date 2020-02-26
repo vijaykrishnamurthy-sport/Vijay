@@ -3,12 +3,12 @@ permalink: /gallery/
 title: ""
 classes: wide
 ---
-<figure class="half">
+<figure>
     <a href="/assets/images/gallery/7.JPG"><img src="/assets/images/gallery/7.JPG" width="193" height="130"></a>
     <a href="/assets/images/gallery/8.JPG"><img src="/assets/images/gallery/2.JPG" width="193" height="130"></a>
     <figcaption>Panelist at Startup Charcha, SDMIMD Mysore</figcaption>
 </figure>
-<figure class="half">
+<figure>
     <a href="/assets/images/gallery/3.JPG"><img src="/assets/images/gallery/3.JPG" width="193" height="130"></a>
     <a href="/assets/images/gallery/5.JPG"><img src="/assets/images/gallery/5.JPG" width="193" height="130"></a>
     <figcaption>L-R With Rahul Dravid and Somdev Devvarman</figcaption>
