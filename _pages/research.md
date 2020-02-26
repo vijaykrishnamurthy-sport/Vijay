@@ -10,5 +10,5 @@ Grassroots Sports Education, Organisational Strategy, Sports Policy
 Currently working on my thesis, which is an exploratory study on the strategic implementation of the sports policy by organisations at the grassroots level. 
 
 **Working Papers**  
-Few research papers are in progress, they will be published once completed. 
+Work in progress, new research papers will be published once completed. 
 
