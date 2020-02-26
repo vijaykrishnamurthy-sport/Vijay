@@ -9,7 +9,7 @@ Business of Sport, Project Management, Social Entrepreneurship
 **Faculty Positions**  
 
 *Visiting Faculty*  
-**SDM Institute of Management**      
+**SDM Institute of Management**     
 Course - PGP Sports Management, University of Mysore   
 Module - Business of Sport
 
