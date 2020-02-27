@@ -10,7 +10,7 @@ Developing a scientifically researched program, to address complex problems (lit
 
 *Sectoral Advisor*   
 **Anahata UNITED EFFORTS Foundation**    
-Creating a career guidance module for Government school children to pursue employment in the sports sector. 
+Creating a career guidance module for Government school children to pursue employment opportunities in the sports sector. 
 
 *Management Consultant*   
 **Catalyst Management Services**    
