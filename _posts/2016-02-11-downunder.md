@@ -6,8 +6,9 @@ categories:
   - Articles
 tags:
   - The Hindu
-  - tennis
+  - Tennis
 ---
+
 The world’s first grand slam was off to a fabulous start. A look at some exciting moments from the recently concluded Australian Open. Australian Open (AO), the first grand slam of the year, was held between January 18 and 31 at Melbourne. The prestigious event witnessed wonderful matches between top players competing from across the world.
 <!--more-->
 
