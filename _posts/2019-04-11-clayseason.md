@@ -9,6 +9,7 @@ tags:
   - Tennis
 ---
 ![2017 French Open - Day Thirteen](/assets/images/skrafaclay.jpg)
+
 12 tournaments over nine weeks across picturesque Europe - that's how the claycourt season goes every year on the ATP tour during the months of April and May. The momentum builds through a series of smaller tournaments (*called ATP 250 events*) followed by bigger ones at Monte Carlo, Barcelona, Madrid and Rome, with a climax at Roland Garros in Paris.
 
 <!--more-->

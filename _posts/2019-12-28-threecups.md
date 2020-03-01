@@ -9,7 +9,8 @@ tags:
   - Tennis
 ---
 
-![davis cup](/assets/images/skdavis.jpg)
+![davis cup](/assets/images/skdavis.jpg)  
+
 Ask a fan of Federer, Nadal, or Djokovic on match statistics of their showdown matches at Wimbledon. You will have an information overload without a doubt. Now ask the same fans about the performances of the same players when they represented their country in a Davis Cup match. The chances are, the enthusiasm drops a fair bit.
 <!--more-->
 
