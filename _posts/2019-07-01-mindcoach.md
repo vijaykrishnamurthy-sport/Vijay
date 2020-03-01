@@ -9,6 +9,7 @@ tags:
   - Tennis
 ---
 ![tennis](/assets/images/skrogerwimb.jpg)
+
 The expectation of an athlete to deliver in every crunch situation is best understood by their coaches. While the primary coach takes care of improving the player’s on-court skills, it takes a mind coach to ensure they are in the right headspace.
 
 In the 2005 Australian Open men’s semifinals, the defending champion Roger Federer was up a match point against Marat Safin in the fourth set tie-breaker. For some reason, he chose to hit the tweener shot which looks great for entertainment sake if it comes off well. Unfortunately, it didn’t that day. Roger lost that point and went on to lose the match in a fifth-set thriller.

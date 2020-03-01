@@ -5,11 +5,12 @@ classes: wide
 categories:
   - Articles
 tags:
-  - Sportskeeda
+  - SportsKeeda
   - Tennis
   - Technology
 ---
 ![tennis](/assets/images/skstudent.jpg)
+
 Technology started as an enabler in our daily lives, then shifted to being an intruder and now it is termed an invader. And technological advances haven't spared the world of sport or its athletes either.
 <!--more-->
 
