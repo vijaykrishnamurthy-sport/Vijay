@@ -47,9 +47,9 @@ gallery:
     image_path: /assets/images/gallery/11.jpg
     alt: "/assets/images/gallery/11.jpg"
     title: "At RVCE alumni EC"
-  - url: /assets/images/gallery/12.jpg
-    image_path: /assets/images/gallery/12.jpg
-    alt: "/assets/images/gallery/12.jpg"
+  - url: /assets/images/gallery/12.png
+    image_path: /assets/images/gallery/12.png
+    alt: "/assets/images/gallery/12.png"
     title: "With Somdev Devvarman"
   - url: /assets/images/gallery/13.jpg
     image_path: /assets/images/gallery/13.jpg
