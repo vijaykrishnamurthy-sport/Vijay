@@ -5,12 +5,10 @@ classes: wide
 categories:
   - Articles
 tags:
-  - sportskeeda
-  - tennis
+  - Sportskeeda
+  - Tennis
 ---
-
 ![Rafael Nadal](/assets/images/skwheelchair.jpeg)
-
 If you think sport is meant only for the able-bodied, think again. Except for being seated on the wheelchair, these players reckon with the same ground rules – court dimensions, size of the net and scoring pattern. Regular or wheelchair, the underlying passion for playing the sport of tennis remains the same.
 <!--more-->
 

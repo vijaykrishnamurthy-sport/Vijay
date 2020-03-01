@@ -5,9 +5,9 @@ classes: wide
 categories:
   - Articles
 tags:
-  - education_world
-  - sport
-  - education
+  - Education World
+  - Sport
+  - Education
 ---
 
 The 2020 Tokyo Olympics is less than a year away. Already there’s a buzz: How many medals will India win this time? These discussions will increase in intensity as the date of the quadrennial Olympics draws closer. As the event begins, media will lament systemic problems, starting from the quality of municipal playgrounds to world-class athlete preparation. A few months after the Olympics, life will go back to normal, and citizens will become resigned to the also-ran status of India.

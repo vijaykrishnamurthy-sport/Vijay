@@ -5,8 +5,8 @@ classes: wide
 categories:
   - Articles
 tags:
-  - linkedin
-  - tennis
+  - LinkedIn
+  - Tennis
 ---
 
 ![Roger, Rafa and Djokovic](/assets/images/lithreem.jpeg)

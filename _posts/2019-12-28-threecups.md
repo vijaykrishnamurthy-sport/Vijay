@@ -5,8 +5,8 @@ classes: wide
 categories:
   - Articles
 tags:
-  - sportskeeda
-  - tennis
+  - Sportskeeda
+  - Tennis
 ---
 
 ![davis cup](/assets/images/skdavis.jpg)
