@@ -43,6 +43,25 @@ gallery:
     image_path: /assets/images/gallery/10.jpg
     alt: "/assets/images/gallery/10.jpg"
     title: "At RV Institue of Management"
-  
+  - url: /assets/images/gallery/11.jpg
+    image_path: /assets/images/gallery/11.jpg
+    alt: "/assets/images/gallery/11.jpg"
+    title: "At RVCE alumni EC"
+  - url: /assets/images/gallery/12.jpg
+    image_path: /assets/images/gallery/12.jpg
+    alt: "/assets/images/gallery/12.jpg"
+    title: "With Somdev Devvarman"
+  - url: /assets/images/gallery/13.jpg
+    image_path: /assets/images/gallery/13.jpg
+    alt: "/assets/images/gallery/13.jpg"
+    title: "As Startup Charcha panelist"
+  - url: /assets/images/gallery/14.jpg
+    image_path: /assets/images/gallery/14.jpg
+    alt: "/assets/images/gallery/14.jpg"
+    title: "SDM Startup Charcha 2020 panel"
+   - url: /assets/images/gallery/15.jpg
+    image_path: /assets/images/gallery/15.jpg
+    alt: "/assets/images/gallery/15.jpg"
+    title: "With SDMIMD PGPSM 2019 batch"
 ---
 {% include gallery %}
