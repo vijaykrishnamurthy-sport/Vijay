@@ -59,7 +59,7 @@ gallery:
     image_path: /assets/images/gallery/14.jpg
     alt: "/assets/images/gallery/14.jpg"
     title: "SDM Startup Charcha 2020 panel"
-   - url: /assets/images/gallery/15.jpg
+  - url: /assets/images/gallery/15.jpg
     image_path: /assets/images/gallery/15.jpg
     alt: "/assets/images/gallery/15.jpg"
     title: "With SDMIMD PGPSM 2019 batch"
