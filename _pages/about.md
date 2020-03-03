@@ -7,7 +7,7 @@ classes: wide
 20+ years of experience encompassing technology design, sports entrepreneurship, and global project management across geographies - India, US and Europe.
 
 **Education**  
-Ph.D., Sports Management *(2019-2022)*  
+Ph.D., Sports Management *(2018-2021)*  
 SDMRCMS, University of Mysore  
 
 M.S., Electronics *(1998–1999)*  
