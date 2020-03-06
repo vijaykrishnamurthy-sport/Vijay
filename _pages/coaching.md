@@ -11,6 +11,14 @@ The International Coaching Federation defines coaching as *"Partnering with clie
 Currently part of the ICF® PCC credentialed program, coaching corporate employees on goal-setting and strategic project management using Gallup StrengthFinder. 
 
 **Client Testimonials**  
+
 *"Vijay is a seasoned professional who is well-versed with many time tested models and theories for business management and strategy. His pragmatic approach would help executives think clearly and more rationally which helps in better decision making"*  
 **-Founder of a technology start-up**  
+
+*"I have been coached for project management from Vijay for close to one year now. I must say that it’s been enriching experience and helped me to get third person perspective to address any organisational challenges. I would strongly recommend Executive Coaching to any corporate professional since this is a exceptional approach to accomplish professional and personal goals."*
+**Project Manager of a sports management firm**  
+
+*"Vijay is very passionate coach with generous attitude looking to sincerely solve the problems."*
+**Regional Manager of a sports management firm**  
+
 
