@@ -7,7 +7,7 @@ classes: wide
 
 The International Coaching Federation defines coaching as *"Partnering with clients in a thought-provoking and creative process that inspires them to maximize their personal and professional potential."*  
 
-**My Coaching Areas**  
+**Coaching Areas**  
 
 *Strategy, Project Management*    
 Currently part of the ICF® PCC credentialed program, coaching corporate employees on goal-setting and strategic project management using Gallup StrengthFinder. 
@@ -18,9 +18,9 @@ Currently part of the ICF® PCC credentialed program, coaching corporate employe
 **Founder, Technology Start-Up**  
 
 *"I have been coached for project management from Vijay for close to one year now. I must say that it’s been enriching experience and helped me to get third person perspective to address any organisational challenges. I would strongly recommend Executive Coaching to any corporate professional since this is a exceptional approach to accomplish professional and personal goals."*  
-**Project Manager, Sports Management Co.**  
+**-Project Manager, Sports Management Co.**  
 
 *"Vijay is very passionate coach with generous attitude looking to sincerely solve the problems."*  
-**Regional Manager, Sports Management Co.**  
+**-Regional Manager, Sports Management Co.**  
 
 
