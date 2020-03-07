@@ -15,6 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Home
 email: vijay@groundstrokes.org
+image:
+  path: /assets/images/vijay.jpeg
+  height: 100
+  width: 100
 description: 
   Personal website of Vijay Krishnamurthy, Ph.D Scholar in Sports Management,
   SDM University of Mysore, Founder of Groundstrokes Tennis Academy, former Project
