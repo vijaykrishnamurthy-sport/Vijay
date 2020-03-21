@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Vijay Krishnamurthy"
   avatar : "/assets/images/vijay.jpeg"
-  bio    : "Ph.D. Scholar (Sports Management)" 
+  bio    : "Ph.D. Scholar (Sports Mgmt) and Executive Coach" 
   links:
     - label: "Email"
       icon: "fas fa-envelope"
