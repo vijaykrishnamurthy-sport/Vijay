@@ -12,6 +12,4 @@ main:
   - title: "Writings"
     url: /articles/ 
   - title: "Gallery"
-    url: /gallery/
-  - title: "Contact"
-    url: /contact/
+    url: /gallery/ 
