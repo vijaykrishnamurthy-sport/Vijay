@@ -8,7 +8,7 @@ tags:
   - Tennis
 ---
 
-![davis cup](/assets/images/tennis cancel.png)  
+![tennis cancelled](/assets/images/tenniscancel.png)  
 
 At the turn of the 20th century, Vladimir Lenin stated: 
 >"There are decades where nothing happens, and there are weeks where decades happen.” 
