@@ -35,3 +35,5 @@ For the existing uncertified tennis coaches out there at large, a deadline can b
 With such checks and balances in place involving all stakeholders, the probability of any systemic leakages linked to uncertified coaches can certainly be minimized.
 
 As they say, a good coach can change a game, a great coach can change a life.
+
+> [This post was originally published on Sportskeeda](https://www.sportskeeda.com/tennis/who-will-coach-the-tennis-coaches)
