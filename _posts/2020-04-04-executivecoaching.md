@@ -6,6 +6,7 @@ categories:
   - Articles
 tags:
   - Executive Coaching
+  - Tennis
 ---
 
 As a tennis coach, I clocked 100 hours every month with relative ease. Inspired by the famous Timothy Gallwey, I assumed that my transition into an Executive Coach would follow a similar linear curve, but soon realized that the same milestone follows a different trajectory in terms of time and effort. Tennis being the most comfortable mental base for me to draw parallels with, I choose to lean on it for this new challenge of Executive Coaching.  
