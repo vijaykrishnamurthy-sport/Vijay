@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /articles/
-layout: posts
+layout: tags
 author_profile: true
 classes: wide
 ---
