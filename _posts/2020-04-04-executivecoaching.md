@@ -10,6 +10,7 @@ tags:
 
 As a tennis coach, I clocked 100 hours every month with relative ease. Inspired by the famous Timothy Gallwey, I assumed that my transition into an Executive Coach would follow a similar linear curve, but soon realized that the same milestone follows a different trajectory in terms of time and effort. Tennis being the most comfortable mental base for me to draw parallels with, I choose to lean on it for this new challenge of Executive Coaching.  
 <!--more-->
+
 Here is a short tennis story to set the context.  
 
 Back in 1998, Leander Paes, the legendary tennis player had come to the crossroads of his career and had to decide on staying relevant and performing. Despite winning the bronze medal in the 1996 Atlanta Olympics, Leander came to realize that moving up the rankings in Singles is an arduous uphill climb. A pivot was inevitable, so Leander went back to the drawing board to analyze his strengths and weaknesses. The skills he possessed – serve and volley with quick hands at the net and single-handed backhand were more suited to the doubles play. Leander decided to pair with Mahesh Bhupathi and adapted to the new format. A year later, in 1999, the duo reached the finals of all four grand slams and finished No.1 in the doubles rankings. The transition paid off for Leander, and he entered the history books as one of the greatest doubles players ever, playing until the age of 46.  
