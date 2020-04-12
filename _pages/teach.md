@@ -6,7 +6,7 @@ classes: wide
 
 *Visiting Faculty*  
 **SDM Institute of Management**     
-Course - PGP Sports Management, SDMIMD, Mysore    
+Course - Sports Management, SDMIMD, Mysore    
 Module - Business of Sport
 
 *Visiting Faculty*  
