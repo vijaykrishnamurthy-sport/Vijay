@@ -6,7 +6,7 @@ classes: wide
 
 *Visiting Faculty*  
 **SDM Institute of Management**     
-Course - Sports Management, SDMIMD, Mysore    
+Course - Sports Management, Mysore    
 Module - Business of Sport
 
 *Visiting Faculty*  
