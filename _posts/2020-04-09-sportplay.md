@@ -8,7 +8,8 @@ tags:
   - Sports Education
   - Sports for Development
   - Life Skills
-  CSRIndia
+  - CSRIndia
+  - Medium
 ---
 
 The famous American artist Fred Rogers once said
