@@ -11,9 +11,11 @@ tags:
   - CSRIndia
   - Medium
 ---
+![tennis cancelled](/assets/images/sportplay.png)  
 
 The famous American artist Fred Rogers once said
-> "Play is often talked about as if it were a relief from serious learning, but for children, play is serious learning.”    
+>"Play is often talked about as if it were a relief from serious learning, but for children, play is serious learning.” 
+
 The education system, unfortunately, has created separate compartments called classroom and playground, with a strong bias that a child learns better from academic books.  
 <!--more-->
 **How early lessons can kick in**  
