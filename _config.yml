@@ -16,7 +16,7 @@
 title: Home
 email: vijay@groundstrokes.org
 image:
-  path: /assets/images/vijay2.jpg
+  path: /assets/images/Vijay4.png
   height: 100
   width: 100
 description: 
@@ -67,7 +67,7 @@ plugins:
 
 author:
   name   : "Vijay Krishnamurthy"
-  avatar : "/assets/images/vijay2.jpg"
+  avatar : "/assets/images/Vijay4.png"
   bio    : "Ph.D. Scholar (Sports Mgmt) and Executive Coach" 
   links:
     - label: "Email"
