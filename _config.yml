@@ -20,7 +20,7 @@ image:
   height: 100
   width: 100
 description: 
-  Personal website of Vijay Krishnamurthy, Ph.D Scholar in Sports Management,
+  Personal website of Vijay Krishnamurthy, Sports Research Scholar,
   SDMIMD University of Mysore, Executive Coach, PRINCE2-certified Project
   Manager, USPTA Tennis Coach, Electronics Engineer
 minimal_mistakes_skin: air
@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Vijay Krishnamurthy"
   avatar : "/assets/images/Vijay4.png"
-  bio    : "Ph.D. Scholar (Sports Mgmt) and Executive Coach" 
+  bio    : "Sports Research Scholar, Executive Coach" 
   links:
     - label: "Email"
       icon: "fas fa-envelope"
