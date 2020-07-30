@@ -26,4 +26,6 @@ Currently part of the ICF® PCC credentialed program, coaching corporate employe
 
 *"I have been coached for project management from Vijay for close to one year now. I must say that it’s been enriching experience and helped me to get third person perspective to address any organisational challenges. I would strongly recommend Executive Coaching to any corporate professional since this is a exceptional approach in accomplishing professional and personal goals."***-Project Manager, Sports Start-Up**  
 
+*"Vijay's approach brought me immediate benefits and what was particularly useful is that, I constantly received meaningful and clear information and feedback that I could act upon. Due to the coaching sessions, I have a much better understanding of how I think and act in certain situations. As a result, this has helped me to develop processes for a more productive and ultimately effective workflow."***-Counsel, Law Firm**
+
 
