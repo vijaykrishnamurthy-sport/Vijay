@@ -4,7 +4,7 @@ title: ""
 classes: wide
 ---
 **Research Areas**  
-Policy, Strategy, Analytics 
+Sports Management, Policy, Strategy, Analytics 
 
 **Ph.D. Thesis**  
 Currently working on my thesis, an exploratory study on the strategic implementation of the sports policy by organisations at the grassroots level. 
