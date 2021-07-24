@@ -9,7 +9,7 @@ Sports Management, Policy, Strategy, Analytics
 **Ph.D. Thesis**  
 Currently working on my thesis, an exploratory study on the strategic implementation of the sports policy by organisations at the grassroots level. 
 
-*Research question*   
+*Research question*     
 What strategies have been adopted by organizations to implement the grassroots sports policy within Karnataka?  
 
 
@@ -19,7 +19,7 @@ What strategies have been adopted by organizations to implement the grassroots s
 **Co-author** : Dr. Sanjeev Tripathi, IIM Indore 
 
 GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management.   
-[https://www.iveycases.com/ProductView.aspx?id=115207]
+(https://www.iveycases.com/ProductView.aspx?id=115207)
 
 
 **Working Paper**
