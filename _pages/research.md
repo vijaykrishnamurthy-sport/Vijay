@@ -16,18 +16,18 @@ What strategies have been adopted by organizations to implement the grassroots s
 **Publications**  
 
 *GoSports Foundation: Going Beyond The Gold*  
-**Co-author** : Dr. Sanjeev Tripathi, IIM Indore 
+**Co-author** : Dr. Sanjeev Tripathi, IIM Indore   
 GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management.   
 
 
 *Performance Management in Non-Profit Sports Organizations using Balanced Scorecard: A scan of extant literature and an agenda for future research*  
-**Co-author** : Dr. M.R.Suresh, SDMIMD
+**Co-author** : Dr. M.R.Suresh, SDMIMD  
 Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The authors have identified new dimensions such as mission, social, and environmental based on the literature review findings. 
 
 
 **Working Paper**
 
 *What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data*  
-**Co-authors** : Kapil Gupta, Dr. Soudeep Deb, IIM Bangalore   
+**Co-authors** : Kapil Gupta, Dr. Soudeep Deb, IIM Bangalore     
 This study aims to examine the importance of winning the first set in grand slam tennis matches. The proposed method provides an agenda for future research to analyze in-depth, and can be used effectively by players and coaches for their continuous improvement. 
 
