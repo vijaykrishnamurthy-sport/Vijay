@@ -22,7 +22,7 @@ GoSports Foundation is a non-profit venture that developed India’s emerging at
 
 
 *Performance Management in Non-Profit Sports Organizations using Balanced Scorecard: A scan of extant literature and an agenda for future research*  
-**Co-author : Dr. M.R.Suresh, SDMIMD** 
+**Co-author** : Dr. M.R.Suresh, SDMIMD
 
 Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The authors have identified new dimensions such as mission, social, and environmental based on the literature review findings. 
 
