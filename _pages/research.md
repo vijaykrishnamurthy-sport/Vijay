@@ -22,12 +22,16 @@ GoSports Foundation is a non-profit venture that developed India’s emerging at
 https://www.iveycases.com/ProductView.aspx?id=115207
 
 
+*Performance Management in Non-Profit Sports Organizations using Balanced Scorecard: A scan of extant literature and an agenda for future research*
+**Co-author : Dr. M.R.Suresh, SDMIMD** 
+
+Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The authors have identified new dimensions such as mission, social, and environmental based on the literature review findings. 
+
+
 **Working Paper**
 
 *What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data*  
 **Co-authors** : Kapil Gupta, Dr. Soudeep Deb, IIM Bangalore   
 
 This study aims to examine the importance of winning the first set in grand slam tennis matches. The proposed method provides an agenda for future research to analyze in-depth, and can be used effectively by players and coaches for their continuous improvement. 
-
-
 
