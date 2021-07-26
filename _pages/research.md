@@ -19,7 +19,6 @@ What strategies have been adopted by organizations to implement the grassroots s
 **Co-author** : Dr. Sanjeev Tripathi, IIM Indore 
 
 GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management.   
-https://www.iveycases.com/ProductView.aspx?id=115207
 
 
 *Performance Management in Non-Profit Sports Organizations using Balanced Scorecard: A scan of extant literature and an agenda for future research*
