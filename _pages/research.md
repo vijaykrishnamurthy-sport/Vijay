@@ -25,7 +25,9 @@ GoSports Foundation is a non-profit venture that developed India’s emerging at
 Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The authors have identified new dimensions such as mission, social, and environmental based on the literature review findings. 
 
 
-**Working Paper**
+**Conferences**
+
+MathSport International Conference, June 24-25, 2021 
 
 *What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data*  
 **Co-authors** : Kapil Gupta, Dr. Soudeep Deb, IIM Bangalore     
