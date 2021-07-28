@@ -13,7 +13,7 @@ Currently working on my thesis, an exploratory study on the strategic implementa
 What strategies have been adopted by organizations to implement the grassroots sports policy within Karnataka?  
 
 
-**Publications**  
+**Publications**-     
 
 *Performance Management in Non-Profit Sports Organizations using Balanced Scorecard: A scan of extant literature and an agenda for future research*  
 **Co-author** : Dr. M.R.Suresh, SDMIMD  
@@ -24,7 +24,7 @@ Although the BSC has been adapted for non-profit organizations, the relevance an
 GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management.   
 
 
-**Conferences**
+**Conferences**-  
 
 MathSport International Conference, June 24-25, 2021 
 
