@@ -19,7 +19,7 @@ What strategies have been adopted by organizations to implement the grassroots s
 **Co-author** : Dr. M.R.Suresh, SDMIMD Mysore  
 Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The authors have identified new dimensions such as mission, social, and environmental based on the literature review findings. 
 
-**Case-study Title** :*GoSports Foundation: Going Beyond The Gold*  
+**Paper Title** :*GoSports Foundation: Going Beyond The Gold*  
 **Co-author** : Dr. Sanjeev Tripathi, IIM Indore   
 GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management. (Published by IVEY, available on Harvard Business Review Store) 
 
