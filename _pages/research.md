@@ -21,8 +21,7 @@ Although the BSC has been adapted for non-profit organizations, the relevance an
 
 Paper Title :*GoSports Foundation: Going Beyond The Gold*  
 **Co-author** : Dr. Sanjeev Tripathi, IIM Indore   
-GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management.   
-(Published by IVEY, available on Harvard Business Review Store) 
+GoSports Foundation is a non-profit venture that developed India’s emerging athletic talent through athletic scholarships and other supports that helped the athletes achieve sports excellence. This case, at a contextual level, exposes participants to the domain of non-profits and sports management. (Published by IVEY, available on Harvard Business Review Store) 
 
 **Conferences** -  
 
