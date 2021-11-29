@@ -31,5 +31,6 @@ GoSports Foundation is a non-profit venture that developed India’s emerging at
 This study aims to examine the importance of winning the first set in grand slam tennis matches. The proposed method provides an agenda for future research to analyze in-depth, and can be used effectively by players and coaches for their continuous improvement. 
 
 **Economic Growth and Sustainable Development: Emerging Trend, NOv 25-26 (SDMIMD Mysore)**  
-**Paper Title**: *Public-Private Partnership (PPP) in Sports Sector: A scan of extant literature with a special focus on Odisha State*   **Co-authors**: Dr. M.R.Suresh, SDMIMD Mysore  
+**Paper Title**: *Public-Private Partnership (PPP) in Sports Sector: A scan of extant literature with a special focus on Odisha State*
+**Co-authors**: Dr. M.R.Suresh, SDMIMD Mysore  
 The recent success of Indian athletes at the Tokyo Olympics and Paralympics has been attributed to the collaboration of several stakeholders in the sports eco-system namely the Government, private companies, and non-profit organizations. By reviewing the relevant literature, the study aims to provide managerial implications on how State Governments across India can develop a framework for implementing the PPP model within the sports sector.
