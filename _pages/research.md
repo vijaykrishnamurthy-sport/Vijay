@@ -28,6 +28,8 @@ GoSports Foundation is a non-profit venture that developed India's emerging athl
 **Co-author**: Dr. M.R.Suresh, SDMIMD Mysore  
 The Balanced Scorecard (BSC) methodology is a widely accepted tool to manage performance in for-profit organizations. Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The purpose of this study is to scan the existing literature on the usage of BSC in managing the performance of non-profit sports organizations, then examine the challenges and opportunities for future adaptation. 
 
+**Conferences** -        
+
 **2nd International Conclave on Globalizing Indian Thought (GIT-2021)  
 Indian Institute of Management (Kozhikode)**  
 December 16-18, 2021 
