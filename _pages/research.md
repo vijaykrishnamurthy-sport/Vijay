@@ -14,7 +14,7 @@ What strategies have been adopted by organizations to implement the grassroots s
 
 **Publications** -     
 
-**2nd International Conclave on Globalizing Indian Thought (GIT-2021)
+**2nd International Conclave on Globalizing Indian Thought (GIT-2021)  
 Indian Institute of Management (Kozhikode)**
 December 16-18, 2021 
 
@@ -23,7 +23,7 @@ December 16-18, 2021
 
 While sports in India have evolved in the past decade, the implementation of the sports policy leaves a lot to be desired. With 26% of the population below the age of 14, amounting to 338 million students at the grassroots, the institutions play a crucial role in implementing mass participation in sport. The purpose of this study is to scan the existing literature on sports policy, then examine the challenges and opportunities to integrate sports education at the grassroots. 
 
-**Economic Growth and Sustainable Development: Emerging Trend
+**Economic Growth and Sustainable Development: Emerging Trend  
 SDM Institute of Management Development (Mysore)** 
 November 25-26, 2021
 
@@ -32,7 +32,7 @@ November 25-26, 2021
 
 The recent success of Indian athletes at the Tokyo Olympics and Paralympics has been attributed to the collaboration of several stakeholders in the sports eco-system namely the Government, private companies, and non-profit organizations. By reviewing the relevant literature, the study aims to provide managerial implications on how State Governments across India can develop a framework for implementing the PPP model within the sports sector.
 
-**MathSport International Conference
+**MathSport International Conference  
 University of Reading (UK)**  
  June 24-25, 2021
 
