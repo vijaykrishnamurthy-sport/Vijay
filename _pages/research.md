@@ -6,10 +6,14 @@ classes: wide
 **Research Areas**  
 Sports Management, Policy, Strategy, Analytics 
 
-**Ph.D. Thesis**  
+**Ph.D.Thesis**  
+**SDM Research Centre for Management Studies**  
+**University of Mysore**  
+2019-2023 
+
 Currently working on my thesis, an exploratory study on the strategic implementation of the sports policy by organisations at the grassroots level. 
 
-*Research question*     
+**Research question**     
 What strategies have been adopted by organizations to implement the grassroots sports policy within Karnataka?  
 
 **Publications** -     
