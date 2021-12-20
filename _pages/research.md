@@ -43,7 +43,7 @@ SDM Institute of Management Development (Mysore)**
 November 25-26, 2021
 
 **Paper Title**: *Public-Private Partnership (PPP) in Sports Sector: A scan of extant literature with a special focus on Odisha State*   
-**Co-author**: Dr. M.R.Suresh, SDMIMD Mysore
+**Co-author**: Dr. M.R.Suresh, SDMIMD Mysore  
 The recent success of Indian athletes at the Tokyo Olympics and Paralympics has been attributed to the collaboration of several stakeholders in the sports eco-system namely the Government, private companies, and non-profit organizations. By reviewing the relevant literature, the study aims to provide managerial implications on how State Governments across India can develop a framework for implementing the PPP model within the sports sector.
 
 *Full-text paper* : **https://www.sdmimd.ac.in/iec2021/conferencepapers/187.pdf**  
