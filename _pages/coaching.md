@@ -11,7 +11,6 @@ The International Coaching Federation defines coaching as *"Partnering with clie
 Currently work as an Executive Fellow Coach at BetterUp, a U.S. based organization. I currently work with corporate managers and leaders across the globe. 
 
 **Client Testimonials**  
-
 *"Vijay is a passionate coach with generous attitude looking to sincerely solve the problems."*  
 **-Regional Manager, Sports Start-Up**  
 
