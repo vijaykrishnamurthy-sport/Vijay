@@ -8,7 +8,7 @@ The International Coaching Federation defines coaching as *"Partnering with clie
 
 **Coaching Areas**  
 *Goal-setting, Strategy, Communication, Project Management*    
-Currently work as an Executive Fellow Coach at BetterUp, a U.S. based organization. I currently corporate managers and leaders across the globe. 
+Currently work as an Executive Fellow Coach at BetterUp, a U.S. based organization. I currently work with corporate managers and leaders across the globe. 
 
 **Client Testimonials**  
 
