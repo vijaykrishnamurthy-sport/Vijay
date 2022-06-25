@@ -3,12 +3,12 @@ permalink: /coaching/
 title: ""
 classes: wide
 ---
-**What is Coaching?**  
+**Executive Coaching?**  
 The International Coaching Federation defines coaching as *"Partnering with clients in a thought-provoking and creative process that inspires them to maximize their personal and professional potential."*  
 
 **Coaching Areas**  
-*Strategy, Project Management*    
-Currently part of the ICF® PCC credentialed program, coaching corporate employees on goal-setting and project management. 
+*Goal-setting, Strategy, Communication, Project Management*    
+Currently work as an Executive Fellow Coach at BetterUp, a U.S. based organization. I currently corporate managers and leaders across the globe. 
 
 **Client Testimonials**  
 
