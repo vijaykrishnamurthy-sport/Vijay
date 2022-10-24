@@ -1,6 +1,7 @@
 ---
 permalink: /teach/
 title: ""
+author_profile: true
 classes: wide
 ---
 

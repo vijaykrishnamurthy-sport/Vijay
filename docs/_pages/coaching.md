@@ -1,6 +1,7 @@
 ---
 permalink: /coaching/
 title: ""
+author_profile: true
 classes: wide
 ---
 **Executive Coaching?**  

@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: ""
+author_profile: true
 classes: wide
 ---
 **Research Areas**  

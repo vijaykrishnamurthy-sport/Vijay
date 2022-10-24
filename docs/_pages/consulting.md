@@ -1,6 +1,7 @@
 ---
 permalink: /consulting/
 title: ""
+author_profile: true
 classes: wide 
 ---
 

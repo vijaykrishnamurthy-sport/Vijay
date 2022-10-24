@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: ""
+author_profile: true
 layout: splash
 classes: wide
 ---
