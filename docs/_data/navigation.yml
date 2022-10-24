@@ -1,0 +1,15 @@
+main:
+  - title: "Who am I"
+    url: /about/
+  - title: "Research"
+    url: /research/    
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Teaching"
+    url: /teach/ 
+  - title: "Coaching"
+    url: /coaching/
+  - title: "Articles"
+    url: /articles/ 
+  - title: "Gallery"
+    url: /gallery/ 
