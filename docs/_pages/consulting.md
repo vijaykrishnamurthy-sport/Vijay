@@ -2,6 +2,7 @@
 permalink: /consulting/
 title: ""
 author_profile: true
+layout: single
 classes: wide 
 ---
 

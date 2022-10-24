@@ -2,7 +2,7 @@
 permalink: /about/
 title: ""
 author_profile: true
-layout: splash
+layout: single
 classes: wide
 ---
 **Summary**  
