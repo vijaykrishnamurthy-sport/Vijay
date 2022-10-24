@@ -20,7 +20,7 @@ gallery:
     alt: "/assets/images/gallery/4.jpg"
     title: "With Professor M R Suresh"
   - url: /assets/images/gallery/5.JPG
-    image_path: /assets/images/gallery/5.JPG
+    image_path: /assets/images/gallery/5.jpg
     alt: "/assets/images/gallery/5.JPG"
     title: "With PGPSM students"
   - url: /assets/images/gallery/6.jpg
