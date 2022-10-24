@@ -4,7 +4,7 @@ title: ""
 classes: wide
 gallery:
   - url: /assets/images/gallery/1.JPG
-    image_path: /assets/images/gallery/1.JPG
+    image_path: /assets/images/gallery/1.jpg
     alt: "/assets/images/gallery/1.JPG"
     title: "At SDMIMD E-Cell event"
   - url: /assets/images/gallery/2.jpg
@@ -12,7 +12,7 @@ gallery:
     alt: "/assets/images/gallery/2.jpg"
     title: "At IIMB Doctoral Conference"
   - url: /assets/images/gallery/3.JPG
-    image_path: /assets/images/gallery/3.JPG
+    image_path: /assets/images/gallery/3.jpg
     alt: "/assets/images/gallery/3.JPG"
     title: "With Rahul Dravid"
   - url: /assets/images/gallery/4.jpg
