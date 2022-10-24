@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: ""
+layout: splash
+classes: wide
 ---
 **Summary**  
 25 years of experience encompassing technology design, sports entrepreneurship, and global project management across geographies - India, US and Europe.
