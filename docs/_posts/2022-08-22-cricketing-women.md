@@ -8,7 +8,7 @@ tags:
   - The Bridge
   - Cricket
 ---
-***Cricket in India is the most popular sport, yet women cricketers have a completely different experience coming through the ranks. What underlying issues have led to the uneven growth of men's cricket compared to the women's version? ***
+*** Cricket in India is the most popular sport, yet women cricketers have a completely different experience coming through the ranks. What underlying issues have led to the uneven growth of men's cricket compared to the women's version? ***
 
 Sanjeev Verma figured that the only way her daughter Shafali could enroll in the cricket academy was if she cut her hair short and disguised as a boy. The media repeated this story umpteen times, especially given that Shafali managed to navigate the system and made it to the Indian national team. However, the more important question is, how many Shafalis have discontinued cricket as a kid growing up? 
 <!--more-->
