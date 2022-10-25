@@ -27,6 +27,7 @@ As Pranjala landed at the Melbourne airport in February 2020, she was getting re
 Mukund was cooped up at his home in India during the lockdown, certainly a better situation than what Pranjala was facing. For a person constantly living out of a suitcase, he tried to make the best use of this time with his family. Until the frustration set in within a couple of weeks. "I train 4-6 hours every day outdoors, including three things - fitness, tennis practice, and yoga. The only thing I could've continued at home was yoga, but it does not make sense without doing the other two." While both witnessed strict lockdown protocols in Australia and India, they observed that the tennis circuit was getting back on its feet in Europe and the U.S.  
 
 **Navigating the twists and turns** 
+
 The men's and women's tours have an exemption called protected ranking (PR), which applies when a player does not compete for a minimum period of six months. While Pranjala could avail of this option during her injury rehab duration, she knew that getting back on tour was inevitable despite the pandemic. "As things opened up in 2021, I realized that the administrative work related to travel had become complex, especially with visa applications, travel schedules, and vaccination protocols at each arrival and departure city." recalls the 23-year-old Pranjala.  
 
 Moreover, although the skies opened up again, the travel expenses had spiked since flights and hotels were operating at a lower capacity. Mukund recalls, "The airfares had almost doubled when I flew to the U.S. from India in 2021 compared to the affordable tickets during the pre-pandemic times. For a tennis player, the cost of an air ticket is the biggest singular expense competing on tour for almost 40 weeks in a year." Moreover, from a performance standpoint, the stop-start irregularities of the pandemic took a toll on every athlete's body and mind.  
@@ -47,6 +48,7 @@ said the 25-year-old Mukund. With fewer tournaments in Asia due to the pandemic,
 observed Pranjala during her overseas visits.  
 
 **The need for a Centre of Excellence**
+
 In sports, it's all about the twin engines – training and competitions. The men's and women's tennis tour has competitions scheduled almost every week of the year; hence athletes must design their training methodology in advance. A world-class training facility becomes the first prerequisite if our mission is to produce international champions. 
 
 > "Ideally, we would like to keep our training base locally in India and
