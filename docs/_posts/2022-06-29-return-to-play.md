@@ -10,7 +10,9 @@ tags:
 ---
 
 ***What will it take for India to produce Top-100 tennis players (singles) on a consistent basis? Can the pandemic offer the perfect opportunity to revive and transform the domestic tennis structure? We find out.***
- Lawn tennis is a fun sport, a popular one at the recreational level in India. However, the paradigm shifts once a junior player decides to make a living out of tennis. From known unknowns to unknown unknowns. The number of factors at play to become successful (let's say to reach the top 100) feels like a cautious drive uphill with low visibility. This piece delves into the challenges faced by two young Indian tennis players - Pranjala Yadlapalli and Mukund Sasikumar, during the pandemic. Pranjala's highest world ranking is 265 (2019), and Mukund's personal best is 229 (2019). They are currently ranked 726 and 450, respectively.  
+
+Lawn tennis is a fun sport, a popular one at the recreational level in India. However, the paradigm shifts once a junior player decides to make a living out of tennis. From known unknowns to unknown unknowns. The number of factors at play to become successful (let's say to reach the top 100) feels like a cautious drive uphill with low visibility. This piece delves into the challenges faced by two young Indian tennis players - Pranjala Yadlapalli and Mukund Sasikumar, during the pandemic. Pranjala's highest world ranking is 265 (2019), and Mukund's personal best is 229 (2019). They are currently ranked 726 and 450, respectively.  
+<!--more-->
 
 **And then, the lockdown happened**  
 As Pranjala landed at the Melbourne airport in February 2020, she was getting ready to complete her 12-week injury rehab program. In and out, she thought, looking forward to being on the tennis tour by May. And then, the pandemic happened. 
