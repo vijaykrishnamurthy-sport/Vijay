@@ -8,7 +8,7 @@ tags:
   - The Bridge
   - Cricket
 ---
-*** Cricket in India is the most popular sport, yet women cricketers have a completely different experience coming through the ranks. What underlying issues have led to the uneven growth of men's cricket compared to the women's version? ***
+***Cricket in India is the most popular sport, yet women cricketers have a completely different experience coming through the ranks. What underlying issues have led to the uneven growth of men's cricket compared to the women's version?***
 
 Sanjeev Verma figured that the only way her daughter Shafali could enroll in the cricket academy was if she cut her hair short and disguised as a boy. The media repeated this story umpteen times, especially given that Shafali managed to navigate the system and made it to the Indian national team. However, the more important question is, how many Shafalis have discontinued cricket as a kid growing up? 
 <!--more-->
@@ -32,7 +32,7 @@ Beyond personal experiences and anecdotal shreds of evidence, similar observatio
 
 said Parminder Gill, Co-Founder of Sportz Village.  
 
-** Diverse factors at play **
+**Diverse factors at play**
  If we take a step back and look at the societal environment around us, several factors impact the mass participation of girls playing a sport. "If urban cities have issues such as space constraint, the safety of women, and transport logistics, the rural locations have insufficient role models for girls to take up a sport," said Jeshwanth, the former Karnataka player and Coach. Interestingly, indoor sports such as badminton, table tennis, and basketball have witnessed a better enrolment rate for girls at the grassroots level. The comparative statistics between indoors and outdoors open up an interesting debate regarding the social stigma.  
 
 >  "Although sports in India have made tremendous progress in the past
@@ -42,7 +42,7 @@ said Parminder Gill, Co-Founder of Sportz Village.
 
 stated Jeshwanth, who is part of the teaching faculty at the National Cricket Academy in Bangalore.  
 
-** A cohesive community, the way forward **
+**A cohesive community, the way forward**
 
 Charity begins at home, as they say, and a parent passing on cricket information to boys at home, not girls, is probably how some stories start. However, once the child is in school, girls do not have enough role models since the sports coaches are predominantly male. The dropout rate then starts to increase further during the teenage years since girls are embarrassed to discuss topics related to menstrual health with male coaches. The girls who persevere through this obstacle course are far and few at the grassroots level. 
 
