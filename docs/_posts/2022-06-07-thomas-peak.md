@@ -8,7 +8,8 @@ tags:
   - The Bridge
   - Badminton
 ---
-**Despite India having individual champions and Olympic medallists in badminton - the team hurdle always stayed, until the Thomas Cup triumph which is a success tale of strategy than an overnight miracle.**
+***Despite India having individual champions and Olympic medallists in badminton - the team hurdle always stayed, until the Thomas Cup triumph which is a success tale of strategy than an overnight miracle.***
+
 Growing up in the early 1980s in Malleswaram locality (Old Bangalore), a few blocks away from Canara Union Community Club, the sport of badminton was in the air around me. I would often hear about the timeline partition in Indian badminton history - "Before and After Prakash Padukone won the All-England title."
 
 <!--more-->
