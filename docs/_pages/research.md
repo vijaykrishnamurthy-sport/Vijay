@@ -49,4 +49,4 @@ While sports in India have evolved in the past decade, the implementation of the
 *Title*: **Performance Management in Non-Profit Sports Organizations using Balanced Scorecard**  
 *Co-author*: **Dr. M.R.Suresh, SDMIMD Mysore**  
 The Balanced Scorecard (BSC) methodology is a widely accepted tool to manage performance in for-profit organizations. Although the BSC has been adapted for non-profit organizations, the relevance and applicability of the tool specific to India's sports sector remain an unexplored area. The purpose of this study is to scan the existing literature on the usage of BSC in managing the performance of non-profit sports organizations, then examine the challenges and opportunities for future adaptation.   
-Full paper : **https://drive.google.com/file/d/1kWrFsxDOd-4jXmXeymWVj9yVXmJioJCR/view**
+*Publisher* : **https://drive.google.com/file/d/1kWrFsxDOd-4jXmXeymWVj9yVXmJioJCR/view**
