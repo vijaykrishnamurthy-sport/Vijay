@@ -38,7 +38,7 @@ The recent success of Indian athletes at the Tokyo Olympics and Paralympics has 
 **Striving towards Badminton for All: a Sports Endeavour at the Grassroots by Padukone Sports Management** <br>
 by **Vijay Krishnamurthy, Dr. M.R.Suresh (SDMIMD Mysore)** <br>
 Padukone Sports Management (PSM) is an organization that provides badminton coaching at the grassroots level across India. With its headquarters in Bangalore, PSM operated in 11 different geographic locations, including a mix of Tier-1/2/3 cities and towns. Sriharsha Bade, the General Manager at Padukone Sports Management, had several challenges to address to scale up the badminton program at the grassroots level. While the expansion of the business was a key focus area during the pre-Covid times (2016- 2019), the organization faced existential issues at some of its centres during the Covid pandemic (2020) onwards. The impact of the Covid-19 pandemic had been severe on the sports sector, yet badminton popularity continued to increase, primarily due to the consistent performance of the Indian players on the world stage. The challenges included the supply of coaches, access to infrastructure, managing customer expectations, and developing sustainable strategies for Tier-2/3 cities. Therefore, Sriharsha had to closely examine the potential options for the respective challenges. And by doing so, Padukone Sports Management can strive towards fulfilling the endeavour of Badminton for All at the grassroots level.   
-*Publisher* : **https://www.sdmimd.ac.in/CIMVol11**<br
+*Publisher* : **https://www.sdmimd.ac.in/CIMVol11**<br>
 
 **GoSports Foundation: Going Beyond The Gold**  
 by **Vijay Krishnamurthy, Dr. Sanjeev Tripathi (IIM Indore)** <br>
@@ -46,6 +46,6 @@ GoSports Foundation is a non-profit venture that developed India’s emerging at
 *Publisher* : **https://store.hbr.org/product/gosports-foundation-going-beyond-the-gold/W21246**
  
 **Implementation of the Sports Policy in India: A scan of extant literature and Conceptual Framework**   
-by **Vijay Krishnamurthy, Dr. M.R.Suresh (SDMIMD Mysore)**
+by **Vijay Krishnamurthy, Dr. M.R.Suresh (SDMIMD Mysore)**<br>
 While sports in India have evolved in the past decade, the implementation of the sports policy leaves a lot to be desired. With 26% of the population below the age of 14, amounting to 338 million students at the grassroots, the institutions play a crucial role in implementing mass participation in sport. The purpose of this study is to scan the existing literature on sports policy, then examine the challenges and opportunities to integrate sports education at the grassroots.   
 *Publisher* : **https://forms.iimk.ac.in/research/git2021/GIT2021_Proceedings_Final_File_03022022.pdf** 
