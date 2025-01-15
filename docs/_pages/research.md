@@ -18,6 +18,11 @@ What strategies have been adopted by organizations to implement the grassroots s
 
 **Publications**      
 
+**Get Kids to Play**<br>
+by **Vijay Krishnamurthy, Saumil Majmudar**<br>
+Get Kids to Play is designed like a Swiss knife and is written with two critical decision-makers in mind – parents and school leaders. Both groups want to get the kids to play but often struggle with the “How?” and get bogged down with obstacles. Eventually, the problem snowballs into a classic case of “Everybody’s baby is nobody’s baby.” Similar to a tool-kit, this book has a range of tools, utilities, and practices to negotiate the various challenges. The five chapters, namely Space, Time, Child, Content, and Facilitator, are organized in such a way that readers can jump to their choice of topic based on their needs.<br> 
+*Publisher* : **https://notionpress.com/read/get-kids-to-play**
+
 **EduSports: Extending the Value Proposition**<br>
 by **Vijay Krishnamurthy, Dr. Ram Subramanian**<br>
 In mid-September 2022, Saumil Majmudar, the co-founder, chief executive officer, and managing director of Sportz Village faced a problem. The company, based in Bengaluru, India, was India’s leading sports education organization, which provided a structured physical education (PE) curriculum to K–12 schools. Thirteen years after its inception, EduSports, a division of Sportz Village, was unable to reach its goal of penetrating 5,000 schools with its PE curriculum. Research had indicated that the low penetration rate stemmed from not offering inter-school sports competitions to showcase the ability of the students involved in the structured PE program. Majmudar had to evaluate between two funding sources to enable EduSports to offer inter-school sports competitions: pass on the increased subscription price to students or keep the subscription price the same but look for brands to offset the increased costs of running inter-school events. Given that the yearly sales cycle would begin in about two weeks, Majmudar’s decision was urgent. <br> *Publisher* : **https://store.hbr.org/product/edusports-extending-the-value-proposition/W34880**.<br> 
