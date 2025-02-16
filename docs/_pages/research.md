@@ -11,7 +11,7 @@ Sports Management, Policy, Strategy, Analytics
 **Ph.D.Thesis**  
 **SDM Research Centre for Management Studies**  
 **University of Mysore**  
-2019-2024
+2019-2025
 
 **Research question**     
 What strategies have been adopted by organizations to implement the grassroots sports policy within Karnataka?  
