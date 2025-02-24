@@ -5,6 +5,8 @@ author_profile: true
 layout: single
 classes: wide
 ---
+What do Athletes and Employees  have in common?  Both focus on goal-setting,  strategy and execution. With dual careers in Corporate and Sport for 27 years, and am passionate about transforming managers to leaders!
+
 **Executive Coaching?**  
 The International Coaching Federation defines coaching as *"Partnering with clients in a thought-provoking and creative process that inspires them to maximize their personal and professional potential."*  
 
