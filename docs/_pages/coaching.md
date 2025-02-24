@@ -15,20 +15,28 @@ The International Coaching Federation defines coaching as *"Partnering with clie
 As an Executive Fellow Coach at BetterUp (a U.S. based organization), I currently work with corporate managers and leaders across the globe. 
 
 **Client Testimonials**  
-*"Vijay is a passionate coach with generous attitude looking to sincerely solve the problems."*  
-**-Regional Manager, Sports Start-Up**  
 
-*"Vijay is a seasoned professional who is well-versed with many time tested models and theories for business management and strategy. His pragmatic approach would help executives think clearly and more rationally which helps in better decision making."***-Founder, Technology Start-Up**  
+*Coach Vijay brought a very structured approach to leadership development and tailored it to my character traits, aspirations, and pace. He often used sports or endurance metaphors to make his point. I see a positive change in my leadership style, and I feel better prepared for the challenges.* <br>
+**Director, Technology (India)**
 
-*"I found working with Vijay and the experience of being coached extremely helpful and positive. I was able to clearly identify and frame key personal and professional development related challenges and think through practical solutions to achieve them. Specifically, working with Vijay has materially improved my ability to empower and develop my team, and leverage my time and abilities. Vijay’s approach has been flexible and objective, and I am very grateful for the balance of support and challenge over the course of the sessions."***-Counsel, Law Firm**  
+*Vijay has an incredible amount of knowledge and experience, he coached me through developing a commander’s call speech that truly resonated with my unit. His guidance enabled me to deliver a message that motivated and inspired my team, reinforcing our shared mission and commitment to excellence.* <br>
+**Commander at US AirForce**
 
-*"Vijay made me dig deep into my own hidden thoughts, brought some clarity into my thinking, focus on my vision for my business and question myself on what would happen if i do things differently. His subtle way of coaching is what has helped me to embark on a different model for my business."***-Founder, Health & Fitness Start-up**     
+*I appreciate how Vijay has given me different perspectives and frameworks to use when thinking through things. One thing that stands out what Vijay has reinforced in me is getting up when facing setbacks. He has reiterated through examples how athletes do this and I can totally relate because of my knowledge of sports and me being an athlete as well.* <br>
+**Engineering Manager, Technology (USA)**
 
-*"Vijay’s approach to coaching helped me realize what my strengths & weaknesses are and how I can utilize my strengths to improve my career prospects. He brings up different examples & insights into his coaching sessions from his vast and combined experience of working in corporate, sports & NGO setups which makes those sessions very interesting as well as valuable."*  
-**-Program Manager, MNC**    
+*Vijay is a seasoned professional who is well-versed with many time-tested models and theories for business management and strategy. His pragmatic approach would help executives think clearly, which helps in better decision making.* <br>
+**Director, Technology (Singapore)**   
 
-*"I have been coached for project management from Vijay for close to one year now. I must say that it’s been enriching experience and helped me to get third person perspective to address any organisational challenges. I would strongly recommend Executive Coaching to any corporate professional since this is a exceptional approach in accomplishing professional and personal goals."***-Project Manager, Sports Start-Up**  
+*Coach Vijay has been a great listening ear, and his thought-provoking questions always prompt me to dig deep and reflect on my inner fears, insecurities, and assumptions. His encouragement and positivity have also helped me to grow throughout the coaching journey.*
+**Senior Manager, Marketing (Singapore)** 
 
-*"Vijay's approach brought me immediate benefits and what was particularly useful is that, I constantly received meaningful and clear information and feedback that I could act upon. Due to the coaching sessions, I have a much better understanding of how I think and act in certain situations. As a result, this has helped me to develop processes for a more productive and ultimately effective workflow."***-Counsel, Law Firm**
+*Vijay develops a very easy atmosphere that allows for a discussion of free-flowing thoughts, feelings & ideas, thus making the sessions less like an intervention. I have referred to the example as a fulcrum to reflect even after the interaction. A reasonable amount of reading material was shared to instigate thinking.*
+**Director, FMCG (India)** 
+
+
+
+ 
+
 
 
