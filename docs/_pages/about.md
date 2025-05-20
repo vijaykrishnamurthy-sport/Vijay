@@ -21,7 +21,7 @@ R.V. College of Engineering, Bangalore
 **Work Experience**  
 
 ***Chapter 3***  
-*Sports Researcher Ph.D. * (2019 – 2025)  
+*Sports Researcher* (2019 – present)  
 My Ph.D. thesis is related to the implementation of sports policy at the grassroots. My teaching interests include *Business of Sport*, *Project Management*, and *Social Entrepreneurship*. As an executive coach, I work with corporate managers and leaders on goal-setting and performance management.
 
 ***Chapter 2***  
